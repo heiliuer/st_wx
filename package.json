@@ -1,0 +1,42 @@
+{
+  "_from": "st_wx",
+  "_id": "st_wx@0.0.11",
+  "_inBundle": false,
+  "_integrity": "sha1-Eb1u12fheC8BbJA3nVS9LcKvkyY=",
+  "_location": "/st_wx",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "st_wx",
+    "name": "st_wx",
+    "escapedName": "st_wx",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/st_wx/download/st_wx-0.0.11.tgz",
+  "_shasum": "11bd6ed767e1782f016c90379d54bd2dc2af9326",
+  "_spec": "st_wx",
+  "_where": "D:\\Users\\Administrator\\Desktop\\meatball\\my-github\\meatball-member\\frontend",
+  "author": {
+    "name": "heiliuer"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "微信jssdk vue组件",
+  "keywords": [
+    "weixin",
+    "wx",
+    "jssdk",
+    "微信"
+  ],
+  "main": "index.js",
+  "name": "st_wx",
+  "version": "0.0.11"
+}
