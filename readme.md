@@ -1,5 +1,10 @@
 ## 微信jssdk vue组件
 
+
+## 如何使用
+
+`npm install st_wx -S`
+
 ## 相关依赖
 - jweixin-1.2.0.js
 
