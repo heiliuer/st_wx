@@ -13,6 +13,8 @@
 - ST_IMAGE_UPLOADER 图片上传组件
   - props 
     - v-modal `[{serverId:'',url:'localId||url',localId:''}]`
+  - methods
+    - stStart 打开图片选择器
   
 - ST_VOICE_UPLOADER 语音上传组件
   - props 
