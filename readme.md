@@ -59,7 +59,7 @@ html
 
   <st-image-uploader ref="imageUploader" v-model="images"></st-image-uploader>
   
-  <button @click="$refs.imageUploader.stShowRecord()">上传图片</button>
+  <button @click="$refs.imageUploader.stStart()">上传图片</button>
   
   <st-voice-uploader ref="voiceUploader" v-model="voices"></st-voice-uploader>
   
